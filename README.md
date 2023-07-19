@@ -1,1 +1,6 @@
-# 30-days-of-js
+
+
+# This repo consist of mini javascript projects
+
+
+
