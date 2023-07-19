@@ -1,6 +1,6 @@
 
 
-# This repe consisit of mini javascript projects
+# This repo consist of mini javascript projects
 
 
 
